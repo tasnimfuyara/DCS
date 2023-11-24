@@ -2,7 +2,7 @@ Unlisted YouTube video:
 
 
 Google Slide Link (Access- Anyone with the link):
-
+https://docs.google.com/presentation/d/1p-avbo3nxsCg6_d_OkJxNvB982eYRVxykwbujl4Frfc/edit?usp=sharing
 
 Paper Review:
 ”Enhancing Smart Agriculture Scenarios with Low-code, Pattern-oriented functionalities for Cloud/Edge collaboration”
